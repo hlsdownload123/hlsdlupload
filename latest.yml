@@ -1,9 +1,8 @@
-version: 1.0.4
+version: 1.0.6
 files:
-  - url: https://github.com/hlsdownload123/hlsdlupload/releases/download/1.0.4/HLSDownloader-1.0.4-Setup.exe
-    sha512: jYvhjZjcTpNFrXZat2coVxS1OhNEWQUOzF3WVLr4zLk9Ij2iIw9KwmUYNhnwku7QbQTAyssguIJtg80HCkcn0g==
-    size: 101803249
-path: https://github.com/hlsdownload123/hlsdlupload/releases/download/1.0.4/HLSDownloader-1.0.4-Setup.exe
-sha512: jYvhjZjcTpNFrXZat2coVxS1OhNEWQUOzF3WVLr4zLk9Ij2iIw9KwmUYNhnwku7QbQTAyssguIJtg80HCkcn0g==
-releaseDate: '2026-08-22T00:59:52.857Z'
-
+  - url: HLSDownloader-1.0.6-Setup.exe
+    sha512: FG/F/4lx4vwjyE0KVEieavoE8YOdljFmBAJZiNgQ93/Bo+52N0m/3fciMhNPuO35edEjuX3B6fXv8iV9GL3HPw==
+    size: 101804360
+path: HLSDownloader-1.0.6-Setup.exe
+sha512: FG/F/4lx4vwjyE0KVEieavoE8YOdljFmBAJZiNgQ93/Bo+52N0m/3fciMhNPuO35edEjuX3B6fXv8iV9GL3HPw==
+releaseDate: '2026-08-22T01:38:51.274Z'
